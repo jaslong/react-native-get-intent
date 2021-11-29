@@ -7,18 +7,18 @@
   objects = {
 
 /* Begin PBXBuildFile section */
-    00E356F31AD99517003FC87E /* AndroidIntentExampleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* AndroidIntentExampleTests.m */; };
-    09EB680D46FE12310629C227 /* libPods-AndroidIntentExample-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B56BA239C969F702C63633C7 /* libPods-AndroidIntentExample-tvOS.a */; };
+    00E356F31AD99517003FC87E /* ReactNativeGetIntentExampleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* ReactNativeGetIntentExampleTests.m */; };
+    09EB680D46FE12310629C227 /* libPods-ReactNativeGetIntentExample-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B56BA239C969F702C63633C7 /* libPods-ReactNativeGetIntentExample-tvOS.a */; };
     13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
     13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
     13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
     2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
     2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
     2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-    2DCD954D1E0B4F2C00145EB5 /* AndroidIntentExampleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* AndroidIntentExampleTests.m */; };
-    3DDF5FAE064BC4BFAB015043 /* libPods-AndroidIntentExample-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6F6A20A3A2D31400635C17C3 /* libPods-AndroidIntentExample-tvOSTests.a */; };
-    4C39C56BAD484C67AA576FFA /* libPods-AndroidIntentExample.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CA3E69C5B9553B26FBA2DF04 /* libPods-AndroidIntentExample.a */; };
-    69AF7E46C79455F135C08478 /* libPods-AndroidIntentExample-AndroidIntentExampleTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7533C965B72700ED5E109803 /* libPods-AndroidIntentExample-AndroidIntentExampleTests.a */; };
+    2DCD954D1E0B4F2C00145EB5 /* ReactNativeGetIntentExampleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* ReactNativeGetIntentExampleTests.m */; };
+    3DDF5FAE064BC4BFAB015043 /* libPods-ReactNativeGetIntentExample-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6F6A20A3A2D31400635C17C3 /* libPods-ReactNativeGetIntentExample-tvOSTests.a */; };
+    4C39C56BAD484C67AA576FFA /* libPods-ReactNativeGetIntentExample.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CA3E69C5B9553B26FBA2DF04 /* libPods-ReactNativeGetIntentExample.a */; };
+    69AF7E46C79455F135C08478 /* libPods-ReactNativeGetIntentExample-ReactNativeGetIntentExampleTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7533C965B72700ED5E109803 /* libPods-ReactNativeGetIntentExample-ReactNativeGetIntentExampleTests.a */; };
     81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
@@ -28,45 +28,45 @@
       containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
       proxyType = 1;
       remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-      remoteInfo = AndroidIntentExample;
+      remoteInfo = ReactNativeGetIntentExample;
     };
     2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */ = {
       isa = PBXContainerItemProxy;
       containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
       proxyType = 1;
       remoteGlobalIDString = 2D02E47A1E0B4A5D006451C7;
-      remoteInfo = "AndroidIntentExample-tvOS";
+      remoteInfo = "ReactNativeGetIntentExample-tvOS";
     };
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
     008F07F21AC5B25A0029DE68 /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
-    00E356EE1AD99517003FC87E /* AndroidIntentExampleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AndroidIntentExampleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+    00E356EE1AD99517003FC87E /* ReactNativeGetIntentExampleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ReactNativeGetIntentExampleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
     00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-    00E356F21AD99517003FC87E /* AndroidIntentExampleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AndroidIntentExampleTests.m; sourceTree = "<group>"; };
-    1172626FD82B50406EC37522 /* Pods-AndroidIntentExample-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AndroidIntentExample-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-AndroidIntentExample-tvOSTests/Pods-AndroidIntentExample-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
-    13B07F961A680F5B00A75B9A /* AndroidIntentExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AndroidIntentExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
-    13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = AndroidIntentExample/AppDelegate.h; sourceTree = "<group>"; };
-    13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = AndroidIntentExample/AppDelegate.m; sourceTree = "<group>"; };
-    13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = AndroidIntentExample/Images.xcassets; sourceTree = "<group>"; };
-    13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = AndroidIntentExample/Info.plist; sourceTree = "<group>"; };
-    13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = AndroidIntentExample/main.m; sourceTree = "<group>"; };
-    20AB94514737C20DFC4350AE /* Pods-AndroidIntentExample-AndroidIntentExampleTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AndroidIntentExample-AndroidIntentExampleTests.debug.xcconfig"; path = "Target Support Files/Pods-AndroidIntentExample-AndroidIntentExampleTests/Pods-AndroidIntentExample-AndroidIntentExampleTests.debug.xcconfig"; sourceTree = "<group>"; };
-    2D02E47B1E0B4A5D006451C7 /* AndroidIntentExample-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "AndroidIntentExample-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-    2D02E4901E0B4A5D006451C7 /* AndroidIntentExample-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "AndroidIntentExample-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-    47F7ED3B7971BE374F7B8635 /* Pods-AndroidIntentExample.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AndroidIntentExample.debug.xcconfig"; path = "Target Support Files/Pods-AndroidIntentExample/Pods-AndroidIntentExample.debug.xcconfig"; sourceTree = "<group>"; };
-    6F6A20A3A2D31400635C17C3 /* libPods-AndroidIntentExample-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-AndroidIntentExample-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-    7533C965B72700ED5E109803 /* libPods-AndroidIntentExample-AndroidIntentExampleTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-AndroidIntentExample-AndroidIntentExampleTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-    81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = AndroidIntentExample/LaunchScreen.storyboard; sourceTree = "<group>"; };
-    AE69546072F7DC475F196F4C /* Pods-AndroidIntentExample-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AndroidIntentExample-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-AndroidIntentExample-tvOS/Pods-AndroidIntentExample-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
-    B56BA239C969F702C63633C7 /* libPods-AndroidIntentExample-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-AndroidIntentExample-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-    CA3E69C5B9553B26FBA2DF04 /* libPods-AndroidIntentExample.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-AndroidIntentExample.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-    E00ACF0FDA8BF921659E2F9A /* Pods-AndroidIntentExample.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AndroidIntentExample.release.xcconfig"; path = "Target Support Files/Pods-AndroidIntentExample/Pods-AndroidIntentExample.release.xcconfig"; sourceTree = "<group>"; };
-    E88D904CC5F3CC947B01AB46 /* Pods-AndroidIntentExample-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AndroidIntentExample-tvOS.release.xcconfig"; path = "Target Support Files/Pods-AndroidIntentExample-tvOS/Pods-AndroidIntentExample-tvOS.release.xcconfig"; sourceTree = "<group>"; };
-    EC1294380F6AD2F72CA45BA5 /* Pods-AndroidIntentExample-AndroidIntentExampleTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AndroidIntentExample-AndroidIntentExampleTests.release.xcconfig"; path = "Target Support Files/Pods-AndroidIntentExample-AndroidIntentExampleTests/Pods-AndroidIntentExample-AndroidIntentExampleTests.release.xcconfig"; sourceTree = "<group>"; };
+    00E356F21AD99517003FC87E /* ReactNativeGetIntentExampleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ReactNativeGetIntentExampleTests.m; sourceTree = "<group>"; };
+    1172626FD82B50406EC37522 /* Pods-ReactNativeGetIntentExample-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReactNativeGetIntentExample-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-ReactNativeGetIntentExample-tvOSTests/Pods-ReactNativeGetIntentExample-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+    13B07F961A680F5B00A75B9A /* ReactNativeGetIntentExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ReactNativeGetIntentExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
+    13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = ReactNativeGetIntentExample/AppDelegate.h; sourceTree = "<group>"; };
+    13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = ReactNativeGetIntentExample/AppDelegate.m; sourceTree = "<group>"; };
+    13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = ReactNativeGetIntentExample/Images.xcassets; sourceTree = "<group>"; };
+    13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = ReactNativeGetIntentExample/Info.plist; sourceTree = "<group>"; };
+    13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = ReactNativeGetIntentExample/main.m; sourceTree = "<group>"; };
+    20AB94514737C20DFC4350AE /* Pods-ReactNativeGetIntentExample-ReactNativeGetIntentExampleTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReactNativeGetIntentExample-ReactNativeGetIntentExampleTests.debug.xcconfig"; path = "Target Support Files/Pods-ReactNativeGetIntentExample-ReactNativeGetIntentExampleTests/Pods-ReactNativeGetIntentExample-ReactNativeGetIntentExampleTests.debug.xcconfig"; sourceTree = "<group>"; };
+    2D02E47B1E0B4A5D006451C7 /* ReactNativeGetIntentExample-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ReactNativeGetIntentExample-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+    2D02E4901E0B4A5D006451C7 /* ReactNativeGetIntentExample-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ReactNativeGetIntentExample-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+    47F7ED3B7971BE374F7B8635 /* Pods-ReactNativeGetIntentExample.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReactNativeGetIntentExample.debug.xcconfig"; path = "Target Support Files/Pods-ReactNativeGetIntentExample/Pods-ReactNativeGetIntentExample.debug.xcconfig"; sourceTree = "<group>"; };
+    6F6A20A3A2D31400635C17C3 /* libPods-ReactNativeGetIntentExample-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ReactNativeGetIntentExample-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+    7533C965B72700ED5E109803 /* libPods-ReactNativeGetIntentExample-ReactNativeGetIntentExampleTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ReactNativeGetIntentExample-ReactNativeGetIntentExampleTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+    81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = ReactNativeGetIntentExample/LaunchScreen.storyboard; sourceTree = "<group>"; };
+    AE69546072F7DC475F196F4C /* Pods-ReactNativeGetIntentExample-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReactNativeGetIntentExample-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-ReactNativeGetIntentExample-tvOS/Pods-ReactNativeGetIntentExample-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+    B56BA239C969F702C63633C7 /* libPods-ReactNativeGetIntentExample-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ReactNativeGetIntentExample-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+    CA3E69C5B9553B26FBA2DF04 /* libPods-ReactNativeGetIntentExample.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ReactNativeGetIntentExample.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+    E00ACF0FDA8BF921659E2F9A /* Pods-ReactNativeGetIntentExample.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReactNativeGetIntentExample.release.xcconfig"; path = "Target Support Files/Pods-ReactNativeGetIntentExample/Pods-ReactNativeGetIntentExample.release.xcconfig"; sourceTree = "<group>"; };
+    E88D904CC5F3CC947B01AB46 /* Pods-ReactNativeGetIntentExample-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReactNativeGetIntentExample-tvOS.release.xcconfig"; path = "Target Support Files/Pods-ReactNativeGetIntentExample-tvOS/Pods-ReactNativeGetIntentExample-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+    EC1294380F6AD2F72CA45BA5 /* Pods-ReactNativeGetIntentExample-ReactNativeGetIntentExampleTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReactNativeGetIntentExample-ReactNativeGetIntentExampleTests.release.xcconfig"; path = "Target Support Files/Pods-ReactNativeGetIntentExample-ReactNativeGetIntentExampleTests/Pods-ReactNativeGetIntentExample-ReactNativeGetIntentExampleTests.release.xcconfig"; sourceTree = "<group>"; };
     ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
     ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
-    FFD6887008BEF5F1A6973F45 /* Pods-AndroidIntentExample-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AndroidIntentExample-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-AndroidIntentExample-tvOSTests/Pods-AndroidIntentExample-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
+    FFD6887008BEF5F1A6973F45 /* Pods-ReactNativeGetIntentExample-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReactNativeGetIntentExample-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-ReactNativeGetIntentExample-tvOSTests/Pods-ReactNativeGetIntentExample-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,7 +74,7 @@
       isa = PBXFrameworksBuildPhase;
       buildActionMask = 2147483647;
       files = (
-        69AF7E46C79455F135C08478 /* libPods-AndroidIntentExample-AndroidIntentExampleTests.a in Frameworks */,
+        69AF7E46C79455F135C08478 /* libPods-ReactNativeGetIntentExample-ReactNativeGetIntentExampleTests.a in Frameworks */,
       );
       runOnlyForDeploymentPostprocessing = 0;
     };
@@ -82,7 +82,7 @@
       isa = PBXFrameworksBuildPhase;
       buildActionMask = 2147483647;
       files = (
-        4C39C56BAD484C67AA576FFA /* libPods-AndroidIntentExample.a in Frameworks */,
+        4C39C56BAD484C67AA576FFA /* libPods-ReactNativeGetIntentExample.a in Frameworks */,
       );
       runOnlyForDeploymentPostprocessing = 0;
     };
@@ -90,7 +90,7 @@
       isa = PBXFrameworksBuildPhase;
       buildActionMask = 2147483647;
       files = (
-        09EB680D46FE12310629C227 /* libPods-AndroidIntentExample-tvOS.a in Frameworks */,
+        09EB680D46FE12310629C227 /* libPods-ReactNativeGetIntentExample-tvOS.a in Frameworks */,
       );
       runOnlyForDeploymentPostprocessing = 0;
     };
@@ -98,20 +98,20 @@
       isa = PBXFrameworksBuildPhase;
       buildActionMask = 2147483647;
       files = (
-        3DDF5FAE064BC4BFAB015043 /* libPods-AndroidIntentExample-tvOSTests.a in Frameworks */,
+        3DDF5FAE064BC4BFAB015043 /* libPods-ReactNativeGetIntentExample-tvOSTests.a in Frameworks */,
       );
       runOnlyForDeploymentPostprocessing = 0;
     };
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-    00E356EF1AD99517003FC87E /* AndroidIntentExampleTests */ = {
+    00E356EF1AD99517003FC87E /* ReactNativeGetIntentExampleTests */ = {
       isa = PBXGroup;
       children = (
-        00E356F21AD99517003FC87E /* AndroidIntentExampleTests.m */,
+        00E356F21AD99517003FC87E /* ReactNativeGetIntentExampleTests.m */,
         00E356F01AD99517003FC87E /* Supporting Files */,
       );
-      path = AndroidIntentExampleTests;
+      path = ReactNativeGetIntentExampleTests;
       sourceTree = "<group>";
     };
     00E356F01AD99517003FC87E /* Supporting Files */ = {
@@ -122,7 +122,7 @@
       name = "Supporting Files";
       sourceTree = "<group>";
     };
-    13B07FAE1A68108700A75B9A /* AndroidIntentExample */ = {
+    13B07FAE1A68108700A75B9A /* ReactNativeGetIntentExample */ = {
       isa = PBXGroup;
       children = (
         008F07F21AC5B25A0029DE68 /* main.jsbundle */,
@@ -133,7 +133,7 @@
         81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */,
         13B07FB71A68108700A75B9A /* main.m */,
       );
-      name = AndroidIntentExample;
+      name = ReactNativeGetIntentExample;
       sourceTree = "<group>";
     };
     2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
@@ -141,10 +141,10 @@
       children = (
         ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
         ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
-        CA3E69C5B9553B26FBA2DF04 /* libPods-AndroidIntentExample.a */,
-        7533C965B72700ED5E109803 /* libPods-AndroidIntentExample-AndroidIntentExampleTests.a */,
-        B56BA239C969F702C63633C7 /* libPods-AndroidIntentExample-tvOS.a */,
-        6F6A20A3A2D31400635C17C3 /* libPods-AndroidIntentExample-tvOSTests.a */,
+        CA3E69C5B9553B26FBA2DF04 /* libPods-ReactNativeGetIntentExample.a */,
+        7533C965B72700ED5E109803 /* libPods-ReactNativeGetIntentExample-ReactNativeGetIntentExampleTests.a */,
+        B56BA239C969F702C63633C7 /* libPods-ReactNativeGetIntentExample-tvOS.a */,
+        6F6A20A3A2D31400635C17C3 /* libPods-ReactNativeGetIntentExample-tvOSTests.a */,
       );
       name = Frameworks;
       sourceTree = "<group>";
@@ -152,14 +152,14 @@
     6B9684456A2045ADE5A6E47E /* Pods */ = {
       isa = PBXGroup;
       children = (
-        47F7ED3B7971BE374F7B8635 /* Pods-AndroidIntentExample.debug.xcconfig */,
-        E00ACF0FDA8BF921659E2F9A /* Pods-AndroidIntentExample.release.xcconfig */,
-        20AB94514737C20DFC4350AE /* Pods-AndroidIntentExample-AndroidIntentExampleTests.debug.xcconfig */,
-        EC1294380F6AD2F72CA45BA5 /* Pods-AndroidIntentExample-AndroidIntentExampleTests.release.xcconfig */,
-        AE69546072F7DC475F196F4C /* Pods-AndroidIntentExample-tvOS.debug.xcconfig */,
-        E88D904CC5F3CC947B01AB46 /* Pods-AndroidIntentExample-tvOS.release.xcconfig */,
-        FFD6887008BEF5F1A6973F45 /* Pods-AndroidIntentExample-tvOSTests.debug.xcconfig */,
-        1172626FD82B50406EC37522 /* Pods-AndroidIntentExample-tvOSTests.release.xcconfig */,
+        47F7ED3B7971BE374F7B8635 /* Pods-ReactNativeGetIntentExample.debug.xcconfig */,
+        E00ACF0FDA8BF921659E2F9A /* Pods-ReactNativeGetIntentExample.release.xcconfig */,
+        20AB94514737C20DFC4350AE /* Pods-ReactNativeGetIntentExample-ReactNativeGetIntentExampleTests.debug.xcconfig */,
+        EC1294380F6AD2F72CA45BA5 /* Pods-ReactNativeGetIntentExample-ReactNativeGetIntentExampleTests.release.xcconfig */,
+        AE69546072F7DC475F196F4C /* Pods-ReactNativeGetIntentExample-tvOS.debug.xcconfig */,
+        E88D904CC5F3CC947B01AB46 /* Pods-ReactNativeGetIntentExample-tvOS.release.xcconfig */,
+        FFD6887008BEF5F1A6973F45 /* Pods-ReactNativeGetIntentExample-tvOSTests.debug.xcconfig */,
+        1172626FD82B50406EC37522 /* Pods-ReactNativeGetIntentExample-tvOSTests.release.xcconfig */,
       );
       name = Pods;
       path = Pods;
@@ -175,9 +175,9 @@
     83CBB9F61A601CBA00E9B192 = {
       isa = PBXGroup;
       children = (
-        13B07FAE1A68108700A75B9A /* AndroidIntentExample */,
+        13B07FAE1A68108700A75B9A /* ReactNativeGetIntentExample */,
         832341AE1AAA6A7D00B99B32 /* Libraries */,
-        00E356EF1AD99517003FC87E /* AndroidIntentExampleTests */,
+        00E356EF1AD99517003FC87E /* ReactNativeGetIntentExampleTests */,
         83CBBA001A601CBA00E9B192 /* Products */,
         2D16E6871FA4F8E400B85C8A /* Frameworks */,
         6B9684456A2045ADE5A6E47E /* Pods */,
@@ -190,10 +190,10 @@
     83CBBA001A601CBA00E9B192 /* Products */ = {
       isa = PBXGroup;
       children = (
-        13B07F961A680F5B00A75B9A /* AndroidIntentExample.app */,
-        00E356EE1AD99517003FC87E /* AndroidIntentExampleTests.xctest */,
-        2D02E47B1E0B4A5D006451C7 /* AndroidIntentExample-tvOS.app */,
-        2D02E4901E0B4A5D006451C7 /* AndroidIntentExample-tvOSTests.xctest */,
+        13B07F961A680F5B00A75B9A /* ReactNativeGetIntentExample.app */,
+        00E356EE1AD99517003FC87E /* ReactNativeGetIntentExampleTests.xctest */,
+        2D02E47B1E0B4A5D006451C7 /* ReactNativeGetIntentExample-tvOS.app */,
+        2D02E4901E0B4A5D006451C7 /* ReactNativeGetIntentExample-tvOSTests.xctest */,
       );
       name = Products;
       sourceTree = "<group>";
@@ -201,9 +201,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-    00E356ED1AD99517003FC87E /* AndroidIntentExampleTests */ = {
+    00E356ED1AD99517003FC87E /* ReactNativeGetIntentExampleTests */ = {
       isa = PBXNativeTarget;
-      buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "AndroidIntentExampleTests" */;
+      buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "ReactNativeGetIntentExampleTests" */;
       buildPhases = (
         3BD00D8DB48E257517D6B951 /* [CP] Check Pods Manifest.lock */,
         00E356EA1AD99517003FC87E /* Sources */,
@@ -216,14 +216,14 @@
       dependencies = (
         00E356F51AD99517003FC87E /* PBXTargetDependency */,
       );
-      name = AndroidIntentExampleTests;
-      productName = AndroidIntentExampleTests;
-      productReference = 00E356EE1AD99517003FC87E /* AndroidIntentExampleTests.xctest */;
+      name = ReactNativeGetIntentExampleTests;
+      productName = ReactNativeGetIntentExampleTests;
+      productReference = 00E356EE1AD99517003FC87E /* ReactNativeGetIntentExampleTests.xctest */;
       productType = "com.apple.product-type.bundle.unit-test";
     };
-    13B07F861A680F5B00A75B9A /* AndroidIntentExample */ = {
+    13B07F861A680F5B00A75B9A /* ReactNativeGetIntentExample */ = {
       isa = PBXNativeTarget;
-      buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "AndroidIntentExample" */;
+      buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "ReactNativeGetIntentExample" */;
       buildPhases = (
         4F0A6FC082772762E3E4C96C /* [CP] Check Pods Manifest.lock */,
         FD10A7F022414F080027D42C /* Start Packager */,
@@ -237,14 +237,14 @@
       );
       dependencies = (
       );
-      name = AndroidIntentExample;
-      productName = AndroidIntentExample;
-      productReference = 13B07F961A680F5B00A75B9A /* AndroidIntentExample.app */;
+      name = ReactNativeGetIntentExample;
+      productName = ReactNativeGetIntentExample;
+      productReference = 13B07F961A680F5B00A75B9A /* ReactNativeGetIntentExample.app */;
       productType = "com.apple.product-type.application";
     };
-    2D02E47A1E0B4A5D006451C7 /* AndroidIntentExample-tvOS */ = {
+    2D02E47A1E0B4A5D006451C7 /* ReactNativeGetIntentExample-tvOS */ = {
       isa = PBXNativeTarget;
-      buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "AndroidIntentExample-tvOS" */;
+      buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "ReactNativeGetIntentExample-tvOS" */;
       buildPhases = (
         87811D0F8FEC6FC2E70EDF88 /* [CP] Check Pods Manifest.lock */,
         FD10A7F122414F3F0027D42C /* Start Packager */,
@@ -257,14 +257,14 @@
       );
       dependencies = (
       );
-      name = "AndroidIntentExample-tvOS";
-      productName = "AndroidIntentExample-tvOS";
-      productReference = 2D02E47B1E0B4A5D006451C7 /* AndroidIntentExample-tvOS.app */;
+      name = "ReactNativeGetIntentExample-tvOS";
+      productName = "ReactNativeGetIntentExample-tvOS";
+      productReference = 2D02E47B1E0B4A5D006451C7 /* ReactNativeGetIntentExample-tvOS.app */;
       productType = "com.apple.product-type.application";
     };
-    2D02E48F1E0B4A5D006451C7 /* AndroidIntentExample-tvOSTests */ = {
+    2D02E48F1E0B4A5D006451C7 /* ReactNativeGetIntentExample-tvOSTests */ = {
       isa = PBXNativeTarget;
-      buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "AndroidIntentExample-tvOSTests" */;
+      buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "ReactNativeGetIntentExample-tvOSTests" */;
       buildPhases = (
         A1191D9E34FEA625352E7BA9 /* [CP] Check Pods Manifest.lock */,
         2D02E48C1E0B4A5D006451C7 /* Sources */,
@@ -276,9 +276,9 @@
       dependencies = (
         2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */,
       );
-      name = "AndroidIntentExample-tvOSTests";
-      productName = "AndroidIntentExample-tvOSTests";
-      productReference = 2D02E4901E0B4A5D006451C7 /* AndroidIntentExample-tvOSTests.xctest */;
+      name = "ReactNativeGetIntentExample-tvOSTests";
+      productName = "ReactNativeGetIntentExample-tvOSTests";
+      productReference = 2D02E4901E0B4A5D006451C7 /* ReactNativeGetIntentExample-tvOSTests.xctest */;
       productType = "com.apple.product-type.bundle.unit-test";
     };
 /* End PBXNativeTarget section */
@@ -307,7 +307,7 @@
           };
         };
       };
-      buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "AndroidIntentExample" */;
+      buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "ReactNativeGetIntentExample" */;
       compatibilityVersion = "Xcode 3.2";
       developmentRegion = en;
       hasScannedForEncodings = 0;
@@ -320,10 +320,10 @@
       projectDirPath = "";
       projectRoot = "";
       targets = (
-        13B07F861A680F5B00A75B9A /* AndroidIntentExample */,
-        00E356ED1AD99517003FC87E /* AndroidIntentExampleTests */,
-        2D02E47A1E0B4A5D006451C7 /* AndroidIntentExample-tvOS */,
-        2D02E48F1E0B4A5D006451C7 /* AndroidIntentExample-tvOSTests */,
+        13B07F861A680F5B00A75B9A /* ReactNativeGetIntentExample */,
+        00E356ED1AD99517003FC87E /* ReactNativeGetIntentExampleTests */,
+        2D02E47A1E0B4A5D006451C7 /* ReactNativeGetIntentExample-tvOS */,
+        2D02E48F1E0B4A5D006451C7 /* ReactNativeGetIntentExample-tvOSTests */,
       );
     };
 /* End PBXProject section */
@@ -406,7 +406,7 @@
       outputFileListPaths = (
       );
       outputPaths = (
-        "$(DERIVED_FILE_DIR)/Pods-AndroidIntentExample-AndroidIntentExampleTests-checkManifestLockResult.txt",
+        "$(DERIVED_FILE_DIR)/Pods-ReactNativeGetIntentExample-ReactNativeGetIntentExampleTests-checkManifestLockResult.txt",
       );
       runOnlyForDeploymentPostprocessing = 0;
       shellPath = /bin/sh;
@@ -419,7 +419,7 @@
       files = (
       );
       inputPaths = (
-        "${PODS_ROOT}/Target Support Files/Pods-AndroidIntentExample-AndroidIntentExampleTests/Pods-AndroidIntentExample-AndroidIntentExampleTests-resources.sh",
+        "${PODS_ROOT}/Target Support Files/Pods-ReactNativeGetIntentExample-ReactNativeGetIntentExampleTests/Pods-ReactNativeGetIntentExample-ReactNativeGetIntentExampleTests-resources.sh",
         "${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle",
       );
       name = "[CP] Copy Pods Resources";
@@ -428,7 +428,7 @@
       );
       runOnlyForDeploymentPostprocessing = 0;
       shellPath = /bin/sh;
-      shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-AndroidIntentExample-AndroidIntentExampleTests/Pods-AndroidIntentExample-AndroidIntentExampleTests-resources.sh\"\n";
+      shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ReactNativeGetIntentExample-ReactNativeGetIntentExampleTests/Pods-ReactNativeGetIntentExample-ReactNativeGetIntentExampleTests-resources.sh\"\n";
       showEnvVarsInLog = 0;
     };
     4F0A6FC082772762E3E4C96C /* [CP] Check Pods Manifest.lock */ = {
@@ -446,7 +446,7 @@
       outputFileListPaths = (
       );
       outputPaths = (
-        "$(DERIVED_FILE_DIR)/Pods-AndroidIntentExample-checkManifestLockResult.txt",
+        "$(DERIVED_FILE_DIR)/Pods-ReactNativeGetIntentExample-checkManifestLockResult.txt",
       );
       runOnlyForDeploymentPostprocessing = 0;
       shellPath = /bin/sh;
@@ -468,7 +468,7 @@
       outputFileListPaths = (
       );
       outputPaths = (
-        "$(DERIVED_FILE_DIR)/Pods-AndroidIntentExample-tvOS-checkManifestLockResult.txt",
+        "$(DERIVED_FILE_DIR)/Pods-ReactNativeGetIntentExample-tvOS-checkManifestLockResult.txt",
       );
       runOnlyForDeploymentPostprocessing = 0;
       shellPath = /bin/sh;
@@ -490,7 +490,7 @@
       outputFileListPaths = (
       );
       outputPaths = (
-        "$(DERIVED_FILE_DIR)/Pods-AndroidIntentExample-tvOSTests-checkManifestLockResult.txt",
+        "$(DERIVED_FILE_DIR)/Pods-ReactNativeGetIntentExample-tvOSTests-checkManifestLockResult.txt",
       );
       runOnlyForDeploymentPostprocessing = 0;
       shellPath = /bin/sh;
@@ -503,7 +503,7 @@
       files = (
       );
       inputPaths = (
-        "${PODS_ROOT}/Target Support Files/Pods-AndroidIntentExample/Pods-AndroidIntentExample-resources.sh",
+        "${PODS_ROOT}/Target Support Files/Pods-ReactNativeGetIntentExample/Pods-ReactNativeGetIntentExample-resources.sh",
         "${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle",
       );
       name = "[CP] Copy Pods Resources";
@@ -512,7 +512,7 @@
       );
       runOnlyForDeploymentPostprocessing = 0;
       shellPath = /bin/sh;
-      shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-AndroidIntentExample/Pods-AndroidIntentExample-resources.sh\"\n";
+      shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ReactNativeGetIntentExample/Pods-ReactNativeGetIntentExample-resources.sh\"\n";
       showEnvVarsInLog = 0;
     };
     FD10A7F022414F080027D42C /* Start Packager */ = {
@@ -560,7 +560,7 @@
       isa = PBXSourcesBuildPhase;
       buildActionMask = 2147483647;
       files = (
-        00E356F31AD99517003FC87E /* AndroidIntentExampleTests.m in Sources */,
+        00E356F31AD99517003FC87E /* ReactNativeGetIntentExampleTests.m in Sources */,
       );
       runOnlyForDeploymentPostprocessing = 0;
     };
@@ -586,7 +586,7 @@
       isa = PBXSourcesBuildPhase;
       buildActionMask = 2147483647;
       files = (
-        2DCD954D1E0B4F2C00145EB5 /* AndroidIntentExampleTests.m in Sources */,
+        2DCD954D1E0B4F2C00145EB5 /* ReactNativeGetIntentExampleTests.m in Sources */,
       );
       runOnlyForDeploymentPostprocessing = 0;
     };
@@ -595,12 +595,12 @@
 /* Begin PBXTargetDependency section */
     00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
       isa = PBXTargetDependency;
-      target = 13B07F861A680F5B00A75B9A /* AndroidIntentExample */;
+      target = 13B07F861A680F5B00A75B9A /* ReactNativeGetIntentExample */;
       targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
     };
     2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */ = {
       isa = PBXTargetDependency;
-      target = 2D02E47A1E0B4A5D006451C7 /* AndroidIntentExample-tvOS */;
+      target = 2D02E47A1E0B4A5D006451C7 /* ReactNativeGetIntentExample-tvOS */;
       targetProxy = 2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */;
     };
 /* End PBXTargetDependency section */
@@ -608,14 +608,14 @@
 /* Begin XCBuildConfiguration section */
     00E356F61AD99517003FC87E /* Debug */ = {
       isa = XCBuildConfiguration;
-      baseConfigurationReference = 20AB94514737C20DFC4350AE /* Pods-AndroidIntentExample-AndroidIntentExampleTests.debug.xcconfig */;
+      baseConfigurationReference = 20AB94514737C20DFC4350AE /* Pods-ReactNativeGetIntentExample-ReactNativeGetIntentExampleTests.debug.xcconfig */;
       buildSettings = {
         BUNDLE_LOADER = "$(TEST_HOST)";
         GCC_PREPROCESSOR_DEFINITIONS = (
           "DEBUG=1",
           "$(inherited)",
         );
-        INFOPLIST_FILE = AndroidIntentExampleTests/Info.plist;
+        INFOPLIST_FILE = ReactNativeGetIntentExampleTests/Info.plist;
         IPHONEOS_DEPLOYMENT_TARGET = 10.0;
         LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
         OTHER_LDFLAGS = (
@@ -623,19 +623,19 @@
           "-lc++",
           "$(inherited)",
         );
-        PRODUCT_BUNDLE_IDENTIFIER = "com.example.reactnativeandroidintent";
+        PRODUCT_BUNDLE_IDENTIFIER = "com.example.reactnativegetintent";
         PRODUCT_NAME = "$(TARGET_NAME)";
-        TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AndroidIntentExample.app/AndroidIntentExample";
+        TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ReactNativeGetIntentExample.app/ReactNativeGetIntentExample";
       };
       name = Debug;
     };
     00E356F71AD99517003FC87E /* Release */ = {
       isa = XCBuildConfiguration;
-      baseConfigurationReference = EC1294380F6AD2F72CA45BA5 /* Pods-AndroidIntentExample-AndroidIntentExampleTests.release.xcconfig */;
+      baseConfigurationReference = EC1294380F6AD2F72CA45BA5 /* Pods-ReactNativeGetIntentExample-ReactNativeGetIntentExampleTests.release.xcconfig */;
       buildSettings = {
         BUNDLE_LOADER = "$(TEST_HOST)";
         COPY_PHASE_STRIP = NO;
-        INFOPLIST_FILE = AndroidIntentExampleTests/Info.plist;
+        INFOPLIST_FILE = ReactNativeGetIntentExampleTests/Info.plist;
         IPHONEOS_DEPLOYMENT_TARGET = 10.0;
         LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
         OTHER_LDFLAGS = (
@@ -643,29 +643,29 @@
           "-lc++",
           "$(inherited)",
         );
-        PRODUCT_BUNDLE_IDENTIFIER = "com.example.reactnativeandroidintent";
+        PRODUCT_BUNDLE_IDENTIFIER = "com.example.reactnativegetintent";
         PRODUCT_NAME = "$(TARGET_NAME)";
-        TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AndroidIntentExample.app/AndroidIntentExample";
+        TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ReactNativeGetIntentExample.app/ReactNativeGetIntentExample";
       };
       name = Release;
     };
     13B07F941A680F5B00A75B9A /* Debug */ = {
       isa = XCBuildConfiguration;
-      baseConfigurationReference = 47F7ED3B7971BE374F7B8635 /* Pods-AndroidIntentExample.debug.xcconfig */;
+      baseConfigurationReference = 47F7ED3B7971BE374F7B8635 /* Pods-ReactNativeGetIntentExample.debug.xcconfig */;
       buildSettings = {
         ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
         CLANG_ENABLE_MODULES = YES;
         CURRENT_PROJECT_VERSION = 1;
         ENABLE_BITCODE = NO;
-        INFOPLIST_FILE = AndroidIntentExample/Info.plist;
+        INFOPLIST_FILE = ReactNativeGetIntentExample/Info.plist;
         LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
         OTHER_LDFLAGS = (
           "$(inherited)",
           "-ObjC",
           "-lc++",
         );
-        PRODUCT_BUNDLE_IDENTIFIER = "com.example.reactnativeandroidintent";
-        PRODUCT_NAME = AndroidIntentExample;
+        PRODUCT_BUNDLE_IDENTIFIER = "com.example.reactnativegetintent";
+        PRODUCT_NAME = ReactNativeGetIntentExample;
         SWIFT_OPTIMIZATION_LEVEL = "-Onone";
         SWIFT_VERSION = 5.0;
         VERSIONING_SYSTEM = "apple-generic";
@@ -674,20 +674,20 @@
     };
     13B07F951A680F5B00A75B9A /* Release */ = {
       isa = XCBuildConfiguration;
-      baseConfigurationReference = E00ACF0FDA8BF921659E2F9A /* Pods-AndroidIntentExample.release.xcconfig */;
+      baseConfigurationReference = E00ACF0FDA8BF921659E2F9A /* Pods-ReactNativeGetIntentExample.release.xcconfig */;
       buildSettings = {
         ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
         CLANG_ENABLE_MODULES = YES;
         CURRENT_PROJECT_VERSION = 1;
-        INFOPLIST_FILE = AndroidIntentExample/Info.plist;
+        INFOPLIST_FILE = ReactNativeGetIntentExample/Info.plist;
         LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
         OTHER_LDFLAGS = (
           "$(inherited)",
           "-ObjC",
           "-lc++",
         );
-        PRODUCT_BUNDLE_IDENTIFIER = "com.example.reactnativeandroidintent";
-        PRODUCT_NAME = AndroidIntentExample;
+        PRODUCT_BUNDLE_IDENTIFIER = "com.example.reactnativegetintent";
+        PRODUCT_NAME = ReactNativeGetIntentExample;
         SWIFT_VERSION = 5.0;
         VERSIONING_SYSTEM = "apple-generic";
       };
@@ -695,7 +695,7 @@
     };
     2D02E4971E0B4A5E006451C7 /* Debug */ = {
       isa = XCBuildConfiguration;
-      baseConfigurationReference = AE69546072F7DC475F196F4C /* Pods-AndroidIntentExample-tvOS.debug.xcconfig */;
+      baseConfigurationReference = AE69546072F7DC475F196F4C /* Pods-ReactNativeGetIntentExample-tvOS.debug.xcconfig */;
       buildSettings = {
         ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
         ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -706,14 +706,14 @@
         DEBUG_INFORMATION_FORMAT = dwarf;
         ENABLE_TESTABILITY = YES;
         GCC_NO_COMMON_BLOCKS = YES;
-        INFOPLIST_FILE = "AndroidIntentExample-tvOS/Info.plist";
+        INFOPLIST_FILE = "ReactNativeGetIntentExample-tvOS/Info.plist";
         LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
         OTHER_LDFLAGS = (
           "$(inherited)",
           "-ObjC",
           "-lc++",
         );
-        PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.AndroidIntentExample-tvOS";
+        PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.ReactNativeGetIntentExample-tvOS";
         PRODUCT_NAME = "$(TARGET_NAME)";
         SDKROOT = appletvos;
         TARGETED_DEVICE_FAMILY = 3;
@@ -723,7 +723,7 @@
     };
     2D02E4981E0B4A5E006451C7 /* Release */ = {
       isa = XCBuildConfiguration;
-      baseConfigurationReference = E88D904CC5F3CC947B01AB46 /* Pods-AndroidIntentExample-tvOS.release.xcconfig */;
+      baseConfigurationReference = E88D904CC5F3CC947B01AB46 /* Pods-ReactNativeGetIntentExample-tvOS.release.xcconfig */;
       buildSettings = {
         ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
         ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -734,14 +734,14 @@
         COPY_PHASE_STRIP = NO;
         DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
         GCC_NO_COMMON_BLOCKS = YES;
-        INFOPLIST_FILE = "AndroidIntentExample-tvOS/Info.plist";
+        INFOPLIST_FILE = "ReactNativeGetIntentExample-tvOS/Info.plist";
         LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
         OTHER_LDFLAGS = (
           "$(inherited)",
           "-ObjC",
           "-lc++",
         );
-        PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.AndroidIntentExample-tvOS";
+        PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.ReactNativeGetIntentExample-tvOS";
         PRODUCT_NAME = "$(TARGET_NAME)";
         SDKROOT = appletvos;
         TARGETED_DEVICE_FAMILY = 3;
@@ -751,7 +751,7 @@
     };
     2D02E4991E0B4A5E006451C7 /* Debug */ = {
       isa = XCBuildConfiguration;
-      baseConfigurationReference = FFD6887008BEF5F1A6973F45 /* Pods-AndroidIntentExample-tvOSTests.debug.xcconfig */;
+      baseConfigurationReference = FFD6887008BEF5F1A6973F45 /* Pods-ReactNativeGetIntentExample-tvOSTests.debug.xcconfig */;
       buildSettings = {
         BUNDLE_LOADER = "$(TEST_HOST)";
         CLANG_ANALYZER_NONNULL = YES;
@@ -761,24 +761,24 @@
         DEBUG_INFORMATION_FORMAT = dwarf;
         ENABLE_TESTABILITY = YES;
         GCC_NO_COMMON_BLOCKS = YES;
-        INFOPLIST_FILE = "AndroidIntentExample-tvOSTests/Info.plist";
+        INFOPLIST_FILE = "ReactNativeGetIntentExample-tvOSTests/Info.plist";
         LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
         OTHER_LDFLAGS = (
           "$(inherited)",
           "-ObjC",
           "-lc++",
         );
-        PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.AndroidIntentExample-tvOSTests";
+        PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.ReactNativeGetIntentExample-tvOSTests";
         PRODUCT_NAME = "$(TARGET_NAME)";
         SDKROOT = appletvos;
-        TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AndroidIntentExample-tvOS.app/AndroidIntentExample-tvOS";
+        TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ReactNativeGetIntentExample-tvOS.app/ReactNativeGetIntentExample-tvOS";
         TVOS_DEPLOYMENT_TARGET = 10.1;
       };
       name = Debug;
     };
     2D02E49A1E0B4A5E006451C7 /* Release */ = {
       isa = XCBuildConfiguration;
-      baseConfigurationReference = 1172626FD82B50406EC37522 /* Pods-AndroidIntentExample-tvOSTests.release.xcconfig */;
+      baseConfigurationReference = 1172626FD82B50406EC37522 /* Pods-ReactNativeGetIntentExample-tvOSTests.release.xcconfig */;
       buildSettings = {
         BUNDLE_LOADER = "$(TEST_HOST)";
         CLANG_ANALYZER_NONNULL = YES;
@@ -788,17 +788,17 @@
         COPY_PHASE_STRIP = NO;
         DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
         GCC_NO_COMMON_BLOCKS = YES;
-        INFOPLIST_FILE = "AndroidIntentExample-tvOSTests/Info.plist";
+        INFOPLIST_FILE = "ReactNativeGetIntentExample-tvOSTests/Info.plist";
         LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
         OTHER_LDFLAGS = (
           "$(inherited)",
           "-ObjC",
           "-lc++",
         );
-        PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.AndroidIntentExample-tvOSTests";
+        PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.ReactNativeGetIntentExample-tvOSTests";
         PRODUCT_NAME = "$(TARGET_NAME)";
         SDKROOT = appletvos;
-        TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AndroidIntentExample-tvOS.app/AndroidIntentExample-tvOS";
+        TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ReactNativeGetIntentExample-tvOS.app/ReactNativeGetIntentExample-tvOS";
         TVOS_DEPLOYMENT_TARGET = 10.1;
       };
       name = Release;
@@ -919,7 +919,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-    00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "AndroidIntentExampleTests" */ = {
+    00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "ReactNativeGetIntentExampleTests" */ = {
       isa = XCConfigurationList;
       buildConfigurations = (
         00E356F61AD99517003FC87E /* Debug */,
@@ -928,7 +928,7 @@
       defaultConfigurationIsVisible = 0;
       defaultConfigurationName = Release;
     };
-    13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "AndroidIntentExample" */ = {
+    13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "ReactNativeGetIntentExample" */ = {
       isa = XCConfigurationList;
       buildConfigurations = (
         13B07F941A680F5B00A75B9A /* Debug */,
@@ -937,7 +937,7 @@
       defaultConfigurationIsVisible = 0;
       defaultConfigurationName = Release;
     };
-    2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "AndroidIntentExample-tvOS" */ = {
+    2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "ReactNativeGetIntentExample-tvOS" */ = {
       isa = XCConfigurationList;
       buildConfigurations = (
         2D02E4971E0B4A5E006451C7 /* Debug */,
@@ -946,7 +946,7 @@
       defaultConfigurationIsVisible = 0;
       defaultConfigurationName = Release;
     };
-    2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "AndroidIntentExample-tvOSTests" */ = {
+    2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "ReactNativeGetIntentExample-tvOSTests" */ = {
       isa = XCConfigurationList;
       buildConfigurations = (
         2D02E4991E0B4A5E006451C7 /* Debug */,
@@ -955,7 +955,7 @@
       defaultConfigurationIsVisible = 0;
       defaultConfigurationName = Release;
     };
-    83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "AndroidIntentExample" */ = {
+    83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "ReactNativeGetIntentExample" */ = {
       isa = XCConfigurationList;
       buildConfigurations = (
         83CBBA201A601CBA00E9B192 /* Debug */,

@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 
 import { AppState, StyleSheet, View, Text, AppStateStatus } from 'react-native';
-import { Intent, getIntent } from 'react-native-android-intent';
+import { Intent, getIntent } from 'react-native-get-intent';
 
 export default function App() {
   const [intent, setIntent] = React.useState<Intent>();

@@ -1,6 +1,6 @@
 {
-  "name": "react-native-android-intent-example",
-  "description": "Example app for react-native-android-intent",
+  "name": "react-native-get-intent-example",
+  "description": "Example app for react-native-get-intent",
   "version": "0.0.1",
   "private": true,
   "scripts": {

@@ -1,5 +1,5 @@
-@objc(AndroidIntent)
-class AndroidIntent: NSObject {
+@objc(ReactNativeGetIntent)
+class ReactNativeGetIntent: NSObject {
 
     @objc(multiply:withB:withResolver:withRejecter:)
     func multiply(a: Float, b: Float, resolve:RCTPromiseResolveBlock,reject:RCTPromiseRejectBlock) -> Void {

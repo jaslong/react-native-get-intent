@@ -1,5 +1,5 @@
 {
-  "name": "react-native-android-intent",
+  "name": "react-native-get-intent",
   "version": "0.1.0",
   "description": "Get access to the Android Activity's intent",
   "main": "lib/commonjs/index",
@@ -13,7 +13,7 @@
     "android",
     "ios",
     "cpp",
-    "react-native-android-intent.podspec",
+    "react-native-get-intent.podspec",
     "!lib/typescript/example",
     "!android/build",
     "!ios/build",
@@ -36,13 +36,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/jaslong/react-native-android-intent",
+  "repository": "https://github.com/jaslong/react-native-get-intent",
   "author": "Jason Long <j@jaslong.com> (https://github.com/jaslong)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jaslong/react-native-android-intent/issues"
+    "url": "https://github.com/jaslong/react-native-get-intent/issues"
   },
-  "homepage": "https://github.com/jaslong/react-native-android-intent#readme",
+  "homepage": "https://github.com/jaslong/react-native-get-intent#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },

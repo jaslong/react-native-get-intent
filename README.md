@@ -1,17 +1,17 @@
-# react-native-android-intent
+# react-native-get-intent
 
 Get access to the Android Activity's intent
 
 ## Installation
 
 ```sh
-npm install react-native-android-intent
+npm install react-native-get-intent
 ```
 
 ## Usage
 
 ```js
-import { multiply } from 'react-native-android-intent';
+import { multiply } from 'react-native-get-intent';
 
 // ...
 

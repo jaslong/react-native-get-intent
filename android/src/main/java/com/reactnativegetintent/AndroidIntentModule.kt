@@ -1,4 +1,4 @@
-package com.reactnativeandroidintent
+package com.reactnativegetintent
 
 import android.os.Bundle
 import com.facebook.react.bridge.Arguments
@@ -7,9 +7,9 @@ import com.facebook.react.bridge.ReactContextBaseJavaModule
 import com.facebook.react.bridge.ReactMethod
 import com.facebook.react.bridge.Promise
 
-class AndroidIntentModule(reactContext: ReactApplicationContext) : ReactContextBaseJavaModule(reactContext) {
+class ReactNativeGetIntentModule(reactContext: ReactApplicationContext) : ReactContextBaseJavaModule(reactContext) {
     override fun getName(): String {
-        return "AndroidIntent"
+        return "ReactNativeGetIntent"
     }
 
     @ReactMethod

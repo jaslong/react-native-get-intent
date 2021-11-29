@@ -1,4 +1,4 @@
-package com.example.reactnativeandroidintent;
+package com.example.reactnativegetintent;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "AndroidIntentExample";
+    return "ReactNativeGetIntentExample";
   }
 }

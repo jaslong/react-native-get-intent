@@ -51,9 +51,9 @@ Remember to add tests for your change if possible. Run the unit tests by:
 yarn test
 ```
 
-To edit the Objective-C files, open `example/ios/AndroidIntentExample.xcworkspace` in XCode and find the source files at `Pods > Development Pods > react-native-android-intent`.
+To edit the Objective-C files, open `example/ios/ReactNativeGetIntentExample.xcworkspace` in XCode and find the source files at `Pods > Development Pods > react-native-get-intent`.
 
-To edit the Kotlin files, open `example/android` in Android studio and find the source files at `reactnativeandroidintent` under `Android`.
+To edit the Kotlin files, open `example/android` in Android studio and find the source files at `reactnativegetintent` under `Android`.
 
 ### Commit message convention
 

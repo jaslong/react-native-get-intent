@@ -1,6 +1,6 @@
 //
 //  File.swift
-//  AndroidIntentExample
+//  ReactNativeGetIntentExample
 //
 
 import Foundation

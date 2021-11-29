@@ -1,13 +1,13 @@
 import { NativeModules, Platform } from 'react-native';
 
 const LINKING_ERROR =
-  `The package 'react-native-android-intent' doesn't seem to be linked. Make sure: \n\n` +
+  `The package 'react-native-get-intent' doesn't seem to be linked. Make sure: \n\n` +
   Platform.select({ ios: "- You have run 'pod install'\n", default: '' }) +
   '- You rebuilt the app after installing the package\n' +
   '- You are not using Expo managed workflow\n';
 
-const AndroidIntent = NativeModules.AndroidIntent
-  ? NativeModules.AndroidIntent
+const ReactNativeGetIntent = NativeModules.ReactNativeGetIntent
+  ? NativeModules.ReactNativeGetIntent
   : new Proxy(
       {},
       {
@@ -35,5 +35,5 @@ export interface Intent {
  * @see https://developer.android.com/reference/android/app/Activity#getIntent()
  */
 export function getIntent(): Promise<Intent> {
-  return AndroidIntent.getIntent();
+  return ReactNativeGetIntent.getIntent();
 }
