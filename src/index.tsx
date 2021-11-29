@@ -23,10 +23,10 @@ const AndroidIntent = NativeModules.AndroidIntent
  * @see https://developer.android.com/reference/android/content/Intent
  */
 export interface Intent {
-  action: string
-  data: string
-  categories: string[]
-  extras: { [k: string]: unknown }
+  action: string;
+  data: string;
+  categories: string[];
+  extras: { [k: string]: unknown };
 }
 
 /**

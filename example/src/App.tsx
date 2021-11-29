@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 
-import {AppState, StyleSheet, View, Text, AppStateStatus} from 'react-native'
+import { AppState, StyleSheet, View, Text, AppStateStatus } from 'react-native';
 import { Intent, getIntent } from 'react-native-android-intent';
 
 export default function App() {
@@ -9,16 +9,16 @@ export default function App() {
   useEffect(() => {
     const listener = (state: AppStateStatus) => {
       if (state === 'active') {
-        getIntent().then(setIntent)
+        getIntent().then(setIntent);
       }
-    }
-    AppState.addEventListener('change', listener)
-    return () => AppState.removeEventListener('change', listener)
-  }, [])
+    };
+    AppState.addEventListener('change', listener);
+    return () => AppState.removeEventListener('change', listener);
+  }, []);
 
   return (
     <View style={styles.container}>
-      <Text>Intent: {JSON.stringify(intent, null,  2)}</Text>
+      <Text>Intent: {JSON.stringify(intent, null, 2)}</Text>
     </View>
   );
 }

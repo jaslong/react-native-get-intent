@@ -11,7 +11,7 @@ npm install react-native-android-intent
 ## Usage
 
 ```js
-import { multiply } from "react-native-android-intent";
+import { multiply } from 'react-native-android-intent';
 
 // ...
 
