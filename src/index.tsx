@@ -17,6 +17,23 @@ const AndroidIntent = NativeModules.AndroidIntent
       }
     );
 
-export function multiply(a: number, b: number): Promise<number> {
-  return AndroidIntent.multiply(a, b);
+/**
+ * Intent interface that is analogous to Android's Intent class.
+ *
+ * @see https://developer.android.com/reference/android/content/Intent
+ */
+export interface Intent {
+  action: string
+  data: string
+  categories: string[]
+  extras: { [k: string]: unknown }
+}
+
+/**
+ * Gets the current Android activity's intent.
+ *
+ * @see https://developer.android.com/reference/android/app/Activity#getIntent()
+ */
+export function getIntent(): Promise<Intent> {
+  return AndroidIntent.getIntent();
 }
