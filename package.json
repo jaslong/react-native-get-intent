@@ -1,6 +1,6 @@
 {
   "name": "react-native-get-intent",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Get access to the Android Activity's intent",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
